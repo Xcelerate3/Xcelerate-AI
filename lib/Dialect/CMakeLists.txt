@@ -1,0 +1,4 @@
+add_subdirectory(Xcelerate)
+add_subdirectory(XcelerateGPU)
+add_subdirectory(XcelerateNvidiaGPU)
+add_subdirectory(NVGPU)
